@@ -1,3 +1,0 @@
-1000 Percentage of correct answers: 67.5%
-1000 Percentage of correct answers: 66.25%
-1000 Percentage of correct answers: 68.75%

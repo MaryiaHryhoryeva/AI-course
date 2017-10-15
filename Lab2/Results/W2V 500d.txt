@@ -1,3 +1,0 @@
-Threshold ferq = 0.00055 Percentage of correct answers: 73.75%
-Threshold ferq = 0.00055 Percentage of correct answers: 70.0%
-Threshold ferq = 0.00055 Percentage of correct answers: 72.5%
